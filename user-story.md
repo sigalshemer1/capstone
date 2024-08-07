@@ -1,6 +1,9 @@
 https://github.com/sigalshemer1/fullstack-capstone-project1/issues/1<br>
 https://github.com/sigalshemer1/fullstack-capstone-project1/issues/2<br>
+https://github.com/sigalshemer1/fullstack-capstone-project1/issues/3<br>
 https://github.com/sigalshemer1/fullstack-capstone-project1/issues/4<br>
+https://github.com/sigalshemer1/fullstack-capstone-project1/issues/5<br>
 https://github.com/sigalshemer1/fullstack-capstone-project1/issues/6<br>
+https://github.com/sigalshemer1/fullstack-capstone-project1/issues/7<br>
 https://github.com/sigalshemer1/fullstack-capstone-project1/issues/8<br>
 https://github.com/sigalshemer1/fullstack-capstone-project1/issues/9
